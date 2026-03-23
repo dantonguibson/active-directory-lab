@@ -17,10 +17,15 @@ Simular um ambiente corporativo com Active Directory.
 
 ## 👥 Usuários
 
-- carlos.ti
+- antonio.financeiro
+- maria.souza.financeiro
+- mariana.financeiro
 - ana.rh
-- maria.fin
-
+- pamela.rh
+- wilson.rh
+- carlos.ti
+- daniel.ti
+- joao.silva.ti
 ---
 
 ## 🧩 Grupos
