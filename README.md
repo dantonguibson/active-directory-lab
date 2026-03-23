@@ -38,3 +38,19 @@ Simular um ambiente corporativo com Active Directory.
 ---
 
 ## 🚀 Projeto voltado para Suporte Técnico / Help Desk
+
+---
+
+## 📸 Evidências
+
+### Estrutura
+![Estrutura](images/estrutura.png)
+
+### Usuários
+![Usuarios](images/usuarios.png)
+
+### Grupos
+![Grupos](images/grupos.png)
+
+### GPO
+![GPO](images/gpo.png)
