@@ -1,11 +1,11 @@
-# 🖥️ Active Directory Lab
+# Active Directory Lab
 
-## 🎯 Objetivo
+## Objetivo
 Simular um ambiente corporativo com Active Directory.
 
 ---
 
-## 🧱 Estrutura
+## Estrutura
 
 - Domínio: empresa.local
 - OUs:
@@ -15,7 +15,7 @@ Simular um ambiente corporativo com Active Directory.
 
 ---
 
-## 👥 Usuários
+## Usuários
 
 - antonio.financeiro
 - maria.souza.financeiro
@@ -28,7 +28,7 @@ Simular um ambiente corporativo com Active Directory.
 - joao.silva.ti
 ---
 
-## 🧩 Grupos
+## Grupos
 
 - TI_Users
 - RH_Users
@@ -36,17 +36,17 @@ Simular um ambiente corporativo com Active Directory.
 
 ---
 
-## 🔒 GPO
+## GPO
 
 - Política de senha configurada
 
 ---
 
-## 🚀 Projeto voltado para Suporte Técnico / Help Desk
+## Projeto voltado para Suporte Técnico / Help Desk
 
 ---
 
-## 📸 Evidências
+## Evidências
 
 ### Estrutura
 ![Estrutura](images/estrutura.png)
